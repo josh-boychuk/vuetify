@@ -41,7 +41,7 @@ While Vuetify is built under the guise of Google's [Material Design](https://mat
 | Name | Release date | Status | Resource |
 | - | - | - | - |
 | [Material Design 1](#material-design-1) | 2014 | ✅ Available | [Specification](https://material.io/archive/guidelines/) |
-| [Material Design 2](#material-design-2) | 2017 | ✅ Available | [Specification](https://material.io/) |
+| [Material Design 2](#material-design-2) | 2017 | ✅ Available | [Specification](https://m2.material.io/) |
 | [Material Design 3](#material-design-3) | 2021 | ⚠️ Development | [Specification](https://m3.material.io/) |
 
 ### Material Design 1
